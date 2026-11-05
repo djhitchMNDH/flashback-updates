@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "released": "2026-11-05",
-  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.1",
-  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.1",
-  "summary": "Delete a project from the picker, and Flashback now checks for updates."
+  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.2",
+  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.2",
+  "summary": "Move photos between cells, a clearer swap picker, and a project menu."
 }
