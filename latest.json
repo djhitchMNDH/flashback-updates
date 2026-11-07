@@ -1,7 +1,7 @@
 {
-  "version": "2.0.5",
+  "version": "2.0.6",
   "released": "2026-11-07",
-  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.5",
-  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.5",
-  "summary": "Opens on All projects, and fixes an occasional error while showing frames."
+  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.6",
+  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.6",
+  "summary": "Frame view fits a laptop screen, crops no longer flash when zoomed, and a new tagline."
 }
