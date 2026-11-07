@@ -1,7 +1,7 @@
 {
-  "version": "2.0.3",
-  "released": "2026-11-05",
-  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.3",
-  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.3",
-  "summary": "Zoom into a crop, move photos with a click, and Best fit."
+  "version": "2.0.4",
+  "released": "2026-11-07",
+  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.4",
+  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.4",
+  "summary": "Fixes updates that kept showing the previous version's interface."
 }
