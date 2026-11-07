@@ -1,7 +1,7 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.5",
   "released": "2026-11-07",
-  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.4",
-  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.4",
-  "summary": "Fixes updates that kept showing the previous version's interface."
+  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.5",
+  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.5",
+  "summary": "Opens on All projects, and fixes an occasional error while showing frames."
 }
