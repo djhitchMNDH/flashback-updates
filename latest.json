@@ -1,7 +1,7 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.7",
   "released": "2026-11-07",
-  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.6",
-  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.6",
-  "summary": "Frame view fits a laptop screen, crops no longer flash when zoomed, and a new tagline."
+  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.7",
+  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.7",
+  "summary": "Fill an empty cell with Add photo, from unused photos or another frame, to combine frames."
 }
