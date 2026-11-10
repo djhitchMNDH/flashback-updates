@@ -1,7 +1,7 @@
 {
-  "version": "2.0.7",
-  "released": "2026-11-07",
-  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.7",
-  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.7",
-  "summary": "Fill an empty cell with Add photo, from unused photos or another frame, to combine frames."
+  "version": "2.0.8",
+  "released": "2026-11-10",
+  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.8",
+  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.8",
+  "summary": "Remove from frame keeps a photo in the show; Exclude now takes the photo out of its frame."
 }
