@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "released": "2026-11-12",
-  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.1.0",
-  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.1.0",
-  "summary": "Change the template of several frames at once and fill their empty cells from available photos."
+  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.1.1",
+  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.1.1",
+  "summary": "Consolidate: pack selected frames, moving photos from the next frames into empty cells."
 }
