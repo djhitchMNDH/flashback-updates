@@ -1,7 +1,7 @@
 {
-  "version": "2.0.9",
-  "released": "2026-11-10",
-  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.9",
-  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.0.9",
-  "summary": "The frame view is sharp on big screens: it shows a full-size image when the frame is that big."
+  "version": "2.1.0",
+  "released": "2026-11-12",
+  "notes_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.1.0",
+  "download_url": "https://github.com/djhitchMNDH/photo-recap-wall/releases/tag/v2.1.0",
+  "summary": "Change the template of several frames at once and fill their empty cells from available photos."
 }
